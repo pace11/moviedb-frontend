@@ -84,6 +84,20 @@
           }
         ]
       }
+    },
+    {
+      "key": "hehe.mdx",
+      "value": {
+        "name": "Hellow Markdown",
+        "id": "fc714bec3adc45153c21f2bbb66d1211",
+        "filepath": "hehe.mdx",
+        "fullpath": "/Users/macos/Documents/Learn/React/moviedb-frontend/hehe.mdx",
+        "link": "",
+        "slug": "hehe",
+        "route": "/hehe",
+        "menu": "",
+        "headings": []
+      }
     }
   ],
   "props": [
